@@ -9,14 +9,14 @@ class HomePAge extends StatelessWidget {
     String name="programming";
     return  Scaffold(
         appBar: AppBar(
-          title: Text("App"),
+          title:const Text("App"),
         ),
         body: Center(
           child: Container(
             child: Text("Welcome to $days flutter "+name),
           ),
         ),
-      drawer: Drawer(),
+      drawer:const Drawer(),
     );
     
      
