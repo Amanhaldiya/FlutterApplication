@@ -1,0 +1,38 @@
+{
+    "products":[
+        {
+             "id":0,
+             "name":"Apple iphone 12 Pro",
+             "desc":"Apple iphone 12th generation",
+             "price":990,
+             "color":"blue",
+             "image":"https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70"
+      
+          },
+          {
+            "id":1,
+            "name":"Apple Macbook ",
+            "desc":"Apple Macbook 12th generation",
+            "price":999,
+            "color":"blue",
+            "image":"https://rukminim2.flixcart.com/image/416/416/xif0q/computer/y/i/y/mphg3hn-a-thin-and-light-laptop-apple-original-imagmfhepavqyfyy.jpeg?q=70"
+     
+         },
+         {
+            "id":2,
+            "name":"Apple Airpods",
+            "desc":"Apple Airpods 12th generation",
+            "price":909,
+            "color":"blue",
+            "image":"https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/s/t/m/-original-imaghxgnjdgyghfw.jpeg?q=70"
+     
+         }
+        
+        
+        
+        
+        
+        
+        ]
+       
+}
